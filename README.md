@@ -1,4 +1,4 @@
-# MyDiary CLI 📖
+# MyDiary CLI
 
 A simple, fast, and minimalist command-line diary, written in Rust.
 
