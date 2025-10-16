@@ -8,10 +8,10 @@ A simple, fast, and minimalist command-line diary, written in Rust.
 
 ## Features
 
-* **⚡ Blazing Fast Entry Creation**: Add a new entry with a single command, without launching any heavy applications.
-* **✏️ Editor Integration**: Browse and edit all your notes in your favorite terminal editor (Neovim, Vim, Nano, etc.).
-* **🧠 Smart Dates**: Quickly jump to specific entries using natural language (`yesterday`, `last monday`, `2 weeks ago`).
-* **📂 Simple Markdown Files**: Your data belongs to you. No complex formats or databases—just clean, readable `.md` files.
+* **Blazing Fast Entry Creation**: Add a new entry with a single command, without launching any heavy applications.
+* **Editor Integration**: Browse and edit all your notes in your favorite terminal editor (Neovim, Vim, Nano, etc.).
+* **Smart Dates**: Quickly jump to specific entries using natural language (`yesterday`, `last monday`, `2 weeks ago`).
+* **Simple Markdown Files**: Your data belongs to you. No complex formats or databases—just clean, readable `.md` files.
 
 ---
 
